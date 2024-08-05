@@ -1,0 +1,3 @@
+/**
+ * returns the copied content
+ */
